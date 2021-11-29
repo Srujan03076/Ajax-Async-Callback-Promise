@@ -1,4 +1,4 @@
-//UC1:Demonstrate Asynchronous nature of Javascript
+//UC1: Demonstrate Asynchronous nature of Javascript
 function showTime(){
     const date = new Date();
     return date.getHours() + "Hrs:" + date.getMinutes() + "Minutes:" + date.getSeconds() + "Secs:";
